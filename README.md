@@ -1,4 +1,4 @@
-## Hi, I'm Jon 👋
+## Hi, I'm Jon
 
 MSc Computer Science student at EPFL, specializing in AI & Data Science.
 
