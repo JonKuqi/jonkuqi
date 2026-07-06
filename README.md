@@ -51,6 +51,6 @@ I work across AI systems, data-intensive software, security, and web engineering
 #### GitHub Stats
 
 <p align="left">
-  <img height="135" src="https://github-readme-stats.vercel.app/api?username=kucijon&show_icons=true&hide_title=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="GitHub statistics"/>
-  <img height="135" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kucijon&layout=compact&hide_title=true&hide_border=true&theme=transparent&langs_count=6" alt="Most used languages"/>
+  <img height="135" src="./profile/stats.svg" alt="GitHub statistics"/>
+  <img height="135" src="./profile/top-langs.svg" alt="Most used languages"/>
 </p>
