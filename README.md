@@ -17,7 +17,7 @@ I work across AI systems, data-intensive software, security, and web engineering
 
 #### Currently working on
 
-- **Software Engineer at C4DT EPFL** — rworking on maintenance and refactoring of a distributed voting system based on blockchain - [D-Voting](https://github.com/c4dt/d-voting)
+- **Software Engineer at C4DT EPFL** — working on maintenance and refactoring of a distributed voting system based on blockchain - [D-Voting](https://github.com/c4dt/d-voting)
 - **[EPFL Spacecraft Team](https://www.epflspacecraftteam.ch/)** — flight software and end-to-end simulation for the CHESS satellite mission
 - **AI Systems** — reliable applications combining machine learning, data pipelines, security, and modern web technologies
 
