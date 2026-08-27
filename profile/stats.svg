@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Jon Ku&#231;i&#39;s GitHub Stats, Rank: B</title>
-        <desc id="descId">Total Commits  : 730, Total PRs: 81, Total Issues: 30</desc>
+        <desc id="descId">Total Commits  : 730, Total PRs: 81, Total Issues: 31</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 141.81496864069283;
+        stroke-dashoffset: 141.56568063586002;
       }
     }
   
@@ -178,7 +178,7 @@
         x="174.01"
         y="12.5"
         data-testid="issues"
-      >30</text>
+      >31</text>
     </g>
   </g>
     </svg>
