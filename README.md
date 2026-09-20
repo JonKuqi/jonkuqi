@@ -19,7 +19,7 @@ I work across AI systems, data-intensive software, security, and web engineering
 
 I’m currently doing research at EPFL’s SaCS lab on adversarial robustness in decentralized learning, and working with the [EPFL Spacecraft Team](https://www.epflspacecraftteam.ch/) on flight software integration and end-to-end simulation for the CHESS satellite mission. I’m also building a legal AI assistant, transforming 7,000+ unclean scanned legal PDFs into structured, searchable knowledge for retrieval and question answering.
 
-Previously, I worked as a software engineer intern at EPFL’s C4DT on [D-Voting](https://github.com/c4dt/d-voting), a distributed privacy-preserving voting system, and as a data engineer intern at Raiffeisen Tech.
+Previously, I interned as a software engineer intern at EPFL’s C4DT on [D-Voting](https://github.com/c4dt/d-voting), a distributed privacy-preserving voting system, and as a data engineer intern at Raiffeisen Tech.
 
 ---
 
