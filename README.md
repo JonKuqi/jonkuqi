@@ -15,11 +15,12 @@ I work across AI systems, data-intensive software, security, and web engineering
 
 ---
 
-#### Currently working on
+#### Current & recent work
 
-- **Software Engineer at C4DT EPFL** — working on maintenance and refactoring of a distributed voting system based on blockchain - [D-Voting](https://github.com/c4dt/d-voting)
-- **[EPFL Spacecraft Team](https://www.epflspacecraftteam.ch/)** — flight software and end-to-end simulation for the CHESS satellite mission
-- **AI Systems** — reliable applications combining machine learning, data pipelines, security, and modern web technologies
+- **Research, EPFL SaCS Lab** — adversarial robustness in decentralized learning, focusing on model fragmentation and targeted attacks
+- **Software Engineer Intern, C4DT EPFL** — distributed systems engineering on [D-Voting](https://github.com/c4dt/d-voting) in Go and TypeScript
+- **Systems Engineer, [EPFL Spacecraft Team](https://www.epflspacecraftteam.ch/)** — flight software integration and end-to-end simulation for the CHESS satellite mission
+- **Data Engineer Intern, Raiffeisen Tech** — data pipelines, automation, and CI/CD with Python, SQL, and Databricks
 
 ---
 
